@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zvonand
 - 👀 I’m interested in networks, distributed systems, databases
-- 🌱 I’m currently working at Altinity, Inc.
+- 🌱 QA Engineer @ Altinity, Inc.
 - 📫 How to reach me: t.me/zvonand
 
 <!---
