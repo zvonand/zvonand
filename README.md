@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zvonand
 - 👀 I’m interested in networks, distributed systems, databases
+- B.Sc in Applied Mathematics and CS
 - 🌱 QA Engineer @ Altinity, Inc.
 - 📫 How to reach me: t.me/zvonand
 
